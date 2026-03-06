@@ -28,13 +28,18 @@ risque_abidjan/
 
 ## Utilisation
 
-### Étape 1 — Initialiser la base
+### Étape 1 — Installer les riquirement
+```bash
+install r requirements.txt
+```
+
+### Étape 2 — Initialiser la base
 ```bash
 python init_db.py
 ```
 Lit le CSV et peuple `agressions.db` avec 6 tables SQLite.
 
-### Étape 2 — Lancer le serveur
+### Étape 3 — Lancer le serveur
 ```bash
 python app.py
 ```
