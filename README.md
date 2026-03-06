@@ -28,7 +28,7 @@ risque_abidjan/
 
 ## Utilisation
 
-### Étape 1 — Installer les riquirement
+### Étape 1 — Installer les requirements
 ```bash
 install r requirements.txt
 ```
