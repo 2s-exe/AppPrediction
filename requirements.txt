@@ -1,0 +1,13 @@
+# RisqueAbi — Abidjan Sécurité
+# Aucune dépendance externe requise.
+# Ce projet utilise uniquement la bibliothèque standard Python.
+#
+# Modules utilisés (tous inclus avec Python 3.x) :
+#   - http.server   → serveur HTTP
+#   - sqlite3       → base de données
+#   - csv           → lecture du fichier CSV
+#   - json          → sérialisation JSON
+#   - os            → gestion des chemins de fichiers
+#   - urllib.parse  → parsing des URLs
+#
+# Version Python recommandée : Python 3.8+
